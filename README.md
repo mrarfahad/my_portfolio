@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://github.com/mdarfahad/mdarfahad/blob/main/pic.png?raw=true" width="200" alt="My Profile Picture"/>
+    <img src="https://github.com/mdarfahad/mdarfahad/blob/main/mr.arfahad?raw=true" width="200" alt="My Profile Picture"/>
   </a>
 </p>
 <h1 align="center">Assalamualaikum, I'm Md. Ashiquer Rahman Fahad</h1>
