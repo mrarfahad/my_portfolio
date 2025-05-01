@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://github.com/mdarfahad/mdarfahad/blob/main/pic.png?raw=true" width="200" alt="My Profile Picture"/>
+  </a>
+</p>
 <h1 align="center">Hey 👋, I'm Md. Ashiquer Rahman Fahad</h1>
 <h3 align="center"> Owner of Musafa IT Solution | Cybersecurity Specialist & Ethical Hacker Globally | Penetration Tester | Red Teamer | OSINT Expert. </h3>
 
