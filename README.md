@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Empire-800000?style=for-the-badge&logo=windows&logoColor=white" alt="Empire"/>
   <img src="https://img.shields.io/badge/Cobalt_Strike-darkred?style=for-the-badge&logo=flask&logoColor=white" alt="Cobalt Strike"/>
   <img src="https://img.shields.io/badge/Nmap-004370?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Impacket-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Impacket"/>
