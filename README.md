@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://github.com/mdarfahad/my_portfolio/blob/main/mr.arfahad.png?raw=true" width="200" alt="My Profile Picture"/>
+  <a href="https://x.com/mr_arfahad" target="_blank">
+    <img src="https://github.com/mdarfahad/my_portfolio/blob/main/pic.png?raw=true" width="200" alt="My Profile Picture"/>
   </a>
 </p>
 <h1 align="center">Assalamualaikum, I'm Md. Ashiquer Rahman Fahad</h1>
@@ -59,7 +59,8 @@
 
 ## 📫 Contact Me
 
-📧 Email: mr.tjmarf@gmail.com  
+📧 Email: mr.tjmarf@gmail.com
+https://x.com/mr_arfahad
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801XXXXXXXXX) -->
 ---
 
