@@ -6,15 +6,6 @@
 <h1 align="center">Assalamualaikum, I'm Md. Ashiquer Rahman Fahad</h1>
 <h3 align="center"> Owner of Musafa IT Solution | Cybersecurity Specialist & Ethical Hacker Globally | Penetration Tester | Red Teamer | OSINT Expert. </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</p>
-
 ---
 
 ## 🧨 Offensive Security Tools & Skills
